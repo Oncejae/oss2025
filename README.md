@@ -18,4 +18,14 @@ data *science* lab
 1. Open Source develop
 2. Operating System
     1. history of Operating system
+    2. process and thread
+    3. Cpu scheduleing
 
+**My University**
+https://donga.ac.kr
+[link] (https://www.donga.ac.kr/kor/Main.do "Main Title")
+click [here] [id] [id] :https://www.donga.ac.kr
+
+> OpenSource
+> 2025-1
+> 
